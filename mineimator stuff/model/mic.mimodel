@@ -1,0 +1,1 @@
+{"name":"","floor_box_uvs":true,"texture":"texture","texture_size":[32,32],"parts":[{"name":"holder","position":[0,0,0],"shapes":[{"type":"block","from":[-1,0,-1],"to":[1,10,1],"uv":[2,16],"position":[0,0,0]}],"parts":[{"name":"top","position":[0,0,0],"shapes":[{"type":"block","from":[-4,0,-4],"to":[3,7,3],"uv":[7,7],"position":[0.5,10,0.5]}]}]}]}
